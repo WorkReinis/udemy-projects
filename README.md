@@ -24,7 +24,7 @@ This repository contains coding projects and exercises completed while following
 - Component-based architecture and JSX  
 
 
-## 🚀 Project Setup  
+## 🏗️ Project Setup  
 
 Projects in this repository are built using either **Create React App (CRA)** or **Vite**, depending on the course.  
 
